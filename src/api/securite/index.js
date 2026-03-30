@@ -1,0 +1,6 @@
+export { authAPI } from './auth'
+export { usersAPI } from './users'
+export { rightsAPI } from './rights'
+export { rolesAPI } from './roles'
+export { roleRightsAPI } from './roleRights'
+export { userRightsAPI } from './userRights'
